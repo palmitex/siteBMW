@@ -1,0 +1,23 @@
+       <footer>
+           
+                <div class="footer-content">
+                        <div class="footer-address">
+                            <p><strong>BMW Brasil</strong></p>
+                            <p>Telefone: 11 946069250</p>
+                            <p>Email:<a href="mailto:contato@bmwbrasil.com.br"target="_blank">contato@bmwbrasil.com.br</a></p>
+                            <p>Site:<a href="https://www.bmw.com.br/pt/index.html" target="_blank">https://www.bmw.com.br/pt/index.html</a></p>
+                        </div>
+                        <div class="footer-social">
+                            <a href="#"><img src="img/facebook-hover@2x.png.asset.1701168437074.png" alt="Facebook"></a>
+                            <a href="#"><img src="img/instagram-hover@2x.png.asset.1701168390676.png" alt="Instagram"></a>
+                            <a href="#"><img src="img/X-Logo-90x90.png.asset.1700494811069.png" alt="Twitter"></a>
+                            <a href="#"><img src="img/linkedin-hover@2x.png.asset.1584959821340.png" alt="LinkedIn"></a>
+                        </div>
+                        <div class="footer-links">
+                            <a href="https://www.bmw.com.br/pt/footer/footer-section/legal-notice.html" target="_blank">Política de Privacidade</a> | 
+                            <a href="https://www.bmwtopcar.com.br/termos-de-uso-bmw.html" target="_blank">Termos de Uso</a> | 
+                        </div>
+                        <p>© 2024 BMW Brasil. Todos os direitos reservados.</p>
+                    </div>
+            
+        </footer>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre Nós - BMW</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #0f4c81;
+        }
+        .sobre-nos {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        p {
+            line-height: 1.6;
+            text-align:justify;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="sobre-nos">
+            <h1>Sobre Nós</h1>
+            <p>A BMW é uma das principais fabricantes de automóveis e motocicletas do mundo, conhecida por seu compromisso com a inovação, design de excelência e desempenho de alto nível. Fundada em 1916, a BMW (Bayerische Motoren Werke AG) tem uma rica história na indústria automotiva, começando com a produção de motores para aeronaves e evoluindo para se tornar uma marca globalmente reconhecida por seus veículos premium.</p>
+            
+            <p>Com sede em Munique, na Alemanha, a BMW se destaca não apenas pela sua engenharia de ponta, mas também pela sua dedicação à sustentabilidade e mobilidade futura. A empresa investe continuamente em tecnologias que promovem a eficiência energética e a redução de emissões, sem comprometer a performance que é a marca registrada da BMW.</p>
+
+            <p>A BMW oferece uma ampla gama de veículos que atendem às necessidades e desejos dos consumidores mais exigentes. Desde os modelos esportivos até os carros elétricos e híbridos, a BMW continua a liderar o caminho na criação de automóveis que combinam luxo, tecnologia e responsabilidade ambiental.</p>
+        </div>
+    </div>
+</body>
+</html>

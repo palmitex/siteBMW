@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/fififi.css">
+    <title>Document</title>
+    <link rel="shortcut icon" href="img/BMW-Logo-1917-1936.png" type="png">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <img src="img/BMW-Logo-1917-1936.png" alt="logo">
+            <input type="text">
+            <ul>
+                <li> <a href="html.html">Home</a></li>
+                <li> <a href="sobrenos.html" target="_blank">Sobre Nós</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <div class="banner">
+            <h1>Nobody is perfect. But if you drive a BMW, you're pretty close</h1>
+        </div> <br><br>
+    </section>
+    <section>
+        <div class="produtos">
+            <div class="card">
+                <img src="img/R (2).jfif" alt="">
+                <h3>BMW M4</h3>
+                <p>O BMW M4 é uma versão de alta performance do modelo BMW Série 4 construído pela divisão esportiva da
+                    BMW, a BMW M GmbH. Esta foi a redesignação que a BMW usou para os modelos coupé e conversível da
+                    Série 3. Tendo suas versões mais apimentadas sendo as GTS E CS.</p> <br> <br><br><br>
+                <p class="preco">R$1000000,00</p>
+                <button>Comprar</button>
+            </div>
+
+            <div class="card">
+                <img src="img/115562.webp" alt="">
+                <h3>BMW I8</h3>
+                <p>O BMW i8 produzido pela BMW entre junho de 2014 e junho de 2020. Foi lançado na Europa em junho de
+                    2014 e nos Estados Unidos em agosto de 2014. O i8 possui uma autonomia elétrica de 24 quilômetros
+                    segunda a EPA americana, e quando a bateria fica descarregada, o motor de gasolina funciona como
+                    gerador estendendo esta autonomia em até 500 quilômetros adicionais.</p> <br><br><br><br>
+                <p class="preco">R$1000000,00</p>
+                <button>Comprar</button>
+            </div>
+
+            <div class="card">
+                <img src="img/R (1).jfif" alt="">
+                <h3>BMW IX M60</h3>
+                <p>O BMW iX é um SUV crossover de luxo elétrico a bateria fabricado e comercializado pela fabricante
+                    alemã de automóveis BMW. Ele foi revelado em forma de conceito chamado Vision iNext.</p>
+                <br><br><br><br><br><br><br><br>
+                <p class="preco">R$1000000,00</p>
+                <button>Comprar</button>
+            </div>
+
+            <div class="card">
+                <img src="img/P90480897-bmw-m8-competition-coup-50-jahre-m-edition-09-2022-2666px.jpg" alt="">
+                <h3>BMW M8</h3>
+                <p>O BMW M8 é a versão de alto desempenho do BMW Série 8 comercializado sob a submarca BMW M.
+                    Introduzido em junho de 2019, o M8 foi inicialmente produzido nos estilos de carroceria conversível
+                    de 2 portas e cupê de 2 portas. Um estilo de carroceria sedã de 4 portas foi adicionado à linha em
+                    outubro de 2019. O M8 é alimentado pelo motor V8 biturbo BMW S63 compartilhado com o BMW M5.</p>
+                <br><br><br>
+                <p class="preco">R$1000000,00</p>
+                <button>Comprar</button>
+            </div>
+
+            <div class="card">
+                <img src="img/bmw_m3_competition_xdrive_2021_4k-1920x1080.jpg" alt="">
+                <h3>BMW M3</h3>
+                <p>O BMW M3 Competition, combina as proporções robustas e distintas do seu design de três seções e 4
+                    portas com o estilo esportivo típico de um veículo M. Com os seus impressionantes 510 cv de potência
+                    e um torque de 650 Nm. Equipado com um motor BMW M TwinPower Turbo de alto desempenho, transmissão
+                    de 8 velocidades M Steptronic com Drivelogic, diferencial M Sport e diversas tecnologias derivadas
+                    do automobilismo, a dinâmica máxima ao dirigir é garantida – quer em sua utilização no dia a dia,
+                    quer nas pistas de corridas. </p>
+                <p class="preco">R$1000000,00</p>
+                <button>Comprar</button>
+
+            </div>
+        </div>
+    </section> <br><br><br><br>
+    <section>
+        <div class="texto">
+            <img src="img/R.jfif" alt="">
+            <div>
+                <h2>Desempenho e Elegância em Cada Detalhe</h2>
+                <div class="paragrafo"><p>Quando você se encontra ao volante de um BMW, não está apenas dirigindo um carro, está experimentando
+                    a fusão perfeita entre engenharia de ponta e design de classe mundial. Cada linha esculpida e cada
+                    curva aperfeiçoada são um testemunho do nosso compromisso com a excelência.
+
+                    Sinta a emoção de dirigir um ícone que redefine o prazer ao volante. Descubra como a BMW transforma
+                    cada jornada em uma experiência extraordinária.
+
+                    BMW – O Prazer de Dirigir em Sua Forma Mais Pura.</p></div>
+            </div>
+        </div>
+
+    </section> <br><br>
+    
+    <section>
+        <footer>
+           
+                <div class="footer-content">
+                        <div class="footer-address">
+                            <p><strong>BMW Brasil</strong></p>
+                            <p>Telefone: 11 946069250</p>
+                            <p>Email:<a href="mailto:contato@bmwbrasil.com.br"target="_blank">contato@bmwbrasil.com.br</a></p>
+                            <p>Site:<a href="https://www.bmw.com.br/pt/index.html" target="_blank">https://www.bmw.com.br/pt/index.html</a></p>
+                        </div>
+                        <div class="footer-social">
+                            <a href="#"><img src="img/facebook-hover@2x.png.asset.1701168437074.png" alt="Facebook"></a>
+                            <a href="#"><img src="img/instagram-hover@2x.png.asset.1701168390676.png" alt="Instagram"></a>
+                            <a href="#"><img src="img/X-Logo-90x90.png.asset.1700494811069.png" alt="Twitter"></a>
+                            <a href="#"><img src="img/linkedin-hover@2x.png.asset.1584959821340.png" alt="LinkedIn"></a>
+                        </div>
+                        <div class="footer-links">
+                            <a href="https://www.bmw.com.br/pt/footer/footer-section/legal-notice.html" target="_blank">Política de Privacidade</a> | 
+                            <a href="https://www.bmwtopcar.com.br/termos-de-uso-bmw.html" target="_blank">Termos de Uso</a> | 
+                        </div>
+                        <p>© 2024 BMW Brasil. Todos os direitos reservados.</p>
+                    </div>
+            
+        </footer>
+
+    </section>
+</body>
+
+</html>

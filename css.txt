@@ -1,0 +1,8 @@
+.footer-address, .footer-social, .footer-links {
+    margin-bottom: 15px;
+}
+.footer-social img {
+    width: 24px;
+    height: 24px;
+    margin: 0 5px;
+}
